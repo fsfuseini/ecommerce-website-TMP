@@ -38,14 +38,14 @@
         "id": 6,
         "name": "Casual Hoodie",
         "price": 49.99,
-        "image": "../assets/images/Casual-Hoodie.jpg",
+        "image": "../assets/images/casual-hoodie.png",
         "description": "Soft and warm hoodie for everyday wear."
     },
     {
         "id": 7,
         "name": "Dress Shirt",
         "price": 59.99,
-        "image": "../assets/images/Dress-Shirt.jpg",
+        "image": "../assets/images/dress-shirt.png",
         "description": "Elegant dress shirt suitable for formal occasions."
     },
     {
@@ -73,70 +73,70 @@
         "id": 11,
         "name": "Sunglasses",
         "price": 39.99,
-        "image": "https://picsum.photos/200/300?random=11",
+        "image": "../assets/images/sunglasses.png",
         "description": "Trendy sunglasses with UV protection."
     },
     {
         "id": 12,
         "name": "Leather Belt",
         "price": 34.99,
-        "image": "https://picsum.photos/200/300?random=12",
+        "image": "../assets/images/leather-belt.png",
         "description": "High-quality leather belt with a classic buckle."
     },
     {
         "id": 13,
         "name": "Gym Shorts",
         "price": 24.99,
-        "image": "https://picsum.photos/200/300?random=13",
+        "image": "../assets/images/gym-shorts.png",
         "description": "Comfortable gym shorts for active workouts."
     },
     {
         "id": 14,
         "name": "Wristwatch",
         "price": 149.99,
-        "image": "https://picsum.photos/200/300?random=14",
+        "image": "../assets/images/wristwatch.png",
         "description": "Elegant wristwatch with a stainless steel band."
     },
     {
         "id": 15,
         "name": "Canvas Sneakers",
         "price": 59.99,
-        "image": "https://picsum.photos/200/300?random=15",
+        "image": "../assets/images/canvas-sneakers.png",
         "description": "Casual canvas sneakers with a modern design."
     },
     {
         "id": 16,
         "name": "Polo Shirt",
         "price": 39.99,
-        "image": "https://picsum.photos/200/300?random=16",
+        "image": "../assets/images/polo-shirt.png",
         "description": "Breathable polo shirt for casual outings."
     },
     {
         "id": 17,
         "name": "Tote Bag",
         "price": 44.99,
-        "image": "https://picsum.photos/200/300?random=17",
+        "image": "../assets/images/tote-bag.png",
         "description": "Spacious tote bag for everyday use."
     },
     {
         "id": 18,
         "name": "Thermal Jacket",
         "price": 129.99,
-        "image": "https://picsum.photos/200/300?random=18",
+        "image": "../assets/images/thermal-jacket.png",
         "description": "Insulated thermal jacket for extreme cold."
     },
     {
         "id": 19,
         "name": "Flip Flops",
         "price": 14.99,
-        "image": "https://picsum.photos/200/300?random=19",
+        "image": "../assets/images/flip-flops.png",
         "description": "Comfortable flip flops for beach or casual wear."
     },
     {
         "id": 20,
         "name": "Suit Jacket",
         "price": 249.99,
-        "image": "https://picsum.photos/200/300?random=20",
+        "image": "../assets/images/suit-jacket.png",
         "description": "Tailored suit jacket for formal events."
     }
 ]
