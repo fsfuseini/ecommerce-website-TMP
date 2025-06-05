@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Leather Jacket",
+        "price": 199.99,
+        "image": "../assets/images/Classic-Leather-Jacket.png",
+        "description": "A stylish black leather jacket perfect for all seasons."
+    },
+    {
+        "id": 2,
+        "name": "Cotton T-Shirt",
+        "price": 29.99,
+        "image": "../assets/images/cotton-t-shirt.png",
+        "description": "Comfortable and breathable cotton t-shirt in various colors."
+    },
+    {
+        "id": 3,
+        "name": "Denim Jeans",
+        "price": 79.99,
+        "image": "../assets/images/Denim-Jeans.jpg",
+        "description": "High-quality denim jeans with a classic fit."
+    },
+    {
+        "id": 4,
+        "name": "Wool Sweater",
+        "price": 89.99,
+        "image": "../assets/images/Wool-Sweater.jpg",
+        "description": "Cozy wool sweater ideal for cold weather."
+    },
+    {
+        "id": 5,
+        "name": "Running Shoes",
+        "price": 119.99,
+        "image": "../assets/images/Running-shoes.jpg",
+        "description": "Lightweight running shoes with excellent cushioning."
+    },
+    {
+        "id": 6,
+        "name": "Casual Hoodie",
+        "price": 49.99,
+        "image": "../assets/images/Casual-Hoodie.jpg",
+        "description": "Soft and warm hoodie for everyday wear."
+    },
+    {
+        "id": 7,
+        "name": "Dress Shirt",
+        "price": 59.99,
+        "image": "../assets/images/Dress-Shirt.jpg",
+        "description": "Elegant dress shirt suitable for formal occasions."
+    },
+    {
+        "id": 8,
+        "name": "Sports Cap",
+        "price": 19.99,
+        "image": "../assets/images/Sports-Cap.jpg",
+        "description": "Stylish cap designed for sports enthusiasts."
+    },
+    {
+        "id": 9,
+        "name": "Backpack",
+        "price": 69.99,
+        "image": "../assets/images/backpack.png",
+        "description": "Durable backpack with multiple compartments."
+    },
+    {
+        "id": 10,
+        "name": "Winter Scarf",
+        "price": 29.99,
+        "image": "../assets/images/Winter-Scarf.png",
+        "description": "Soft and warm scarf for winter protection."
+    },
+    {
+        "id": 11,
+        "name": "Sunglasses",
+        "price": 39.99,
+        "image": "https://picsum.photos/200/300?random=11",
+        "description": "Trendy sunglasses with UV protection."
+    },
+    {
+        "id": 12,
+        "name": "Leather Belt",
+        "price": 34.99,
+        "image": "https://picsum.photos/200/300?random=12",
+        "description": "High-quality leather belt with a classic buckle."
+    },
+    {
+        "id": 13,
+        "name": "Gym Shorts",
+        "price": 24.99,
+        "image": "https://picsum.photos/200/300?random=13",
+        "description": "Comfortable gym shorts for active workouts."
+    },
+    {
+        "id": 14,
+        "name": "Wristwatch",
+        "price": 149.99,
+        "image": "https://picsum.photos/200/300?random=14",
+        "description": "Elegant wristwatch with a stainless steel band."
+    },
+    {
+        "id": 15,
+        "name": "Canvas Sneakers",
+        "price": 59.99,
+        "image": "https://picsum.photos/200/300?random=15",
+        "description": "Casual canvas sneakers with a modern design."
+    },
+    {
+        "id": 16,
+        "name": "Polo Shirt",
+        "price": 39.99,
+        "image": "https://picsum.photos/200/300?random=16",
+        "description": "Breathable polo shirt for casual outings."
+    },
+    {
+        "id": 17,
+        "name": "Tote Bag",
+        "price": 44.99,
+        "image": "https://picsum.photos/200/300?random=17",
+        "description": "Spacious tote bag for everyday use."
+    },
+    {
+        "id": 18,
+        "name": "Thermal Jacket",
+        "price": 129.99,
+        "image": "https://picsum.photos/200/300?random=18",
+        "description": "Insulated thermal jacket for extreme cold."
+    },
+    {
+        "id": 19,
+        "name": "Flip Flops",
+        "price": 14.99,
+        "image": "https://picsum.photos/200/300?random=19",
+        "description": "Comfortable flip flops for beach or casual wear."
+    },
+    {
+        "id": 20,
+        "name": "Suit Jacket",
+        "price": 249.99,
+        "image": "https://picsum.photos/200/300?random=20",
+        "description": "Tailored suit jacket for formal events."
+    }
+]

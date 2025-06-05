@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce - Cart</title>
+    <link rel="shortcut icon" href="../assets/images/e-shop-favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="../index.html" class="logo">
+                <img src="../assets/images/e-shop-logo.png" alt="E-Shop Logo">
+            </a>
+            <!-- Hamburger Icon -->
+            <div class="hamburger" id="hamburger">
+                <span class="hamburger-icon">☰</span>
+                <span class="close-icon">✕</span>
+            </div>
+            <!-- Navigation Links -->
+            <ul class="nav-links" id="nav-links">
+                <li><a href="../index.html">Continue shopping</a></li>
+                <li><a href="./cart.html">Cart (<span id="cart-count">0</span>)</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="cart-items"></section>
+        <div class="cart-totals">
+            <p>Subtotal: $<span id="subtotal">0</span></p>
+            <p>Shipping: $50</p>
+            <p>VAT (20%): $<span id="vat">0</span></p>
+            <p>Total: $<span id="total">0</span></p>
+            <a href="./checkout.html" class="btn">Proceed to Checkout</a>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Explore</h3>
+                <ul>
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="./cart.html">Cart</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Contact Us</h3>
+                <p>Email: support@eshop.com</p>
+                <p>Phone: (020) 167-2209</p>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <p><a href="#">Facebook</a> | <a href="#">Twitter</a> | <a href="#">Instagram</a></p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 E-Shop. All rights reserved.</p>
+        </div>
+    </footer>
+    <script src="../assets/scripts/main.js"></script>
+</body>
+
+</html>
