@@ -486,9 +486,13 @@ footer {
         font-size: 1.5rem;
     }
 
-    .cta-button {
+    .btn {
         padding: 0.8rem 1.5rem;
         font-size: 1rem;
+    }
+
+    .about{
+        text-align: justify;
     }
 
     #product-list {
@@ -520,6 +524,12 @@ footer {
 }
 
 @media (max-width: 480px) {
+
+    .about {
+            text-align: justify;
+        }
+
+        
     .cart-item {
         flex-direction: column;
         gap: 0.5rem;
