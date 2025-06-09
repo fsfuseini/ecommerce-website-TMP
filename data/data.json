@@ -31,7 +31,7 @@
         "id": 5,
         "name": "Running Shoes",
         "price": 119.99,
-        "image": "../assets/images/Running-shoes.jpg",
+        "image": "../assets/images/running-shoes.jpg",
         "description": "Lightweight running shoes with excellent cushioning."
     },
     {
